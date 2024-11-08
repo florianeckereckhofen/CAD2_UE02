@@ -1,2 +1,2 @@
 # CAD2_UE02
-Abgabe 2
+Für Doku bitte PDF Lesen.
