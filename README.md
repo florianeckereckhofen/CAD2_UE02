@@ -12,8 +12,8 @@ Komponenten:
 1.	Dockerfiles erstellen: Voting-App, Worker und Result-App.
 2.	Docker Compose Datei erstellen für die orchestrierung.
 3.	docker-compose up --build
-a.	IP für Voting-App: http://127.0.0.1:5000/
-b.	IP für Result-App: http://127.0.0.1:5001/
+  a.	IP für Voting-App: http://127.0.0.1:5000/
+  b.	IP für Result-App: http://127.0.0.1:5001/
 
 Zusätzlich muss noch vor dem Start in der SQL Datenbank der votes Table erstellt werden: 
 1.	docker-compose exec db psql -U postgres
